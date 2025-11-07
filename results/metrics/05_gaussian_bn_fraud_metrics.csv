@@ -1,0 +1,2 @@
+Dataset,Model,Accuracy,AUC_ROC,Brier_Score,Precision,Recall,F1_Score,Specificity,Training_Time_s,Inference_Time_s,Avg_Inference_ms,Num_Edges,Num_Nodes
+Fraud Detection,Gaussian Bayesian Network (Continuous),0.884,0.9428699004445023,0.09822419637081,0.8331710483609218,0.798941798941799,0.8156974896727042,0.924266980993075,0.04539203643798828,28.972461700439453,2.8972461700439456,8,9

@@ -1,0 +1,2 @@
+Dataset,Model,Accuracy,AUC_ROC,Brier_Score,Precision,Recall,F1_Score,Specificity,Training_Time_s,Inference_Time_s,Avg_Inference_ms,Num_Edges,Num_Nodes
+Fraud Detection,Discrete Bayesian Network (Tree),0.8772,0.959929298569779,0.07462271066838067,1.0,0.617802676626206,0.7637552904963448,1.0,15.198479890823364,8.993645429611206,0.8993645429611206,12,13

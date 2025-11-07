@@ -1,0 +1,2 @@
+Dataset,Model,Accuracy,AUC_ROC,Brier_Score,Precision,Recall,F1_Score,Specificity,Training_Time_s,Inference_Time_s,Avg_Inference_ms,Num_Features,Uncertain_Predictions,High_Confidence_Predictions
+Heart Disease,Gaussian Process (RBF Kernel),1.0,1.0,0.058077575230912816,1.0,1.0,1.0,1.0,282.2690486907959,0.11177301406860352,0.5452342149687976,13,23,182

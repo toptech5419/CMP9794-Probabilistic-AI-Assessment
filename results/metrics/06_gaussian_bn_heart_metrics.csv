@@ -1,0 +1,2 @@
+Dataset,Model,Accuracy,AUC_ROC,Brier_Score,Precision,Recall,F1_Score,Specificity,Training_Time_s,Inference_Time_s,Avg_Inference_ms,Num_Edges,Num_Nodes
+Heart Disease,Gaussian Bayesian Network (Continuous),0.8292682926829268,0.9040952380952381,0.136067959468735,0.8070175438596491,0.8761904761904762,0.8401826484018265,0.78,0.04140162467956543,1.2417678833007812,6.0574043087842995,11,13

@@ -1,0 +1,2 @@
+Dataset,Model,Accuracy,AUC_ROC,Brier_Score,Precision,Recall,F1_Score,Specificity,Training_Time_s,Inference_Time_s,Avg_Inference_ms,Num_Edges,Num_Nodes
+Heart Disease,Discrete Bayesian Network (Tree),0.8585365853658536,0.8995238095238095,0.12164929209403681,0.8518518518518519,0.8761904761904762,0.863849765258216,0.84,4.888559818267822,0.17074370384216309,0.8328961163032346,13,14

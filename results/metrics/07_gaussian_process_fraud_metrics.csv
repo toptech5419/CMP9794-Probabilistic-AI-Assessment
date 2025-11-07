@@ -1,0 +1,2 @@
+Dataset,Model,Accuracy,AUC_ROC,Brier_Score,Precision,Recall,F1_Score,Specificity,Training_Time_s,Inference_Time_s,Avg_Inference_ms,Num_Features,Uncertain_Predictions,High_Confidence_Predictions
+Fraud Detection,Gaussian Process (RBF Kernel),0.9852,0.9991086197588248,0.014761933883066567,0.9746051409104987,0.9794584500466853,0.9770257683949084,0.9879180786798291,499.58148527145386,5.411324977874756,0.5411324977874755,7,415,9585
